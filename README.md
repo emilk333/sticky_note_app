@@ -1,2 +1,3 @@
 # sticky_note_app
-Fullstack test project 
+
+1. [x] Setup the stack
